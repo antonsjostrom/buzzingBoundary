@@ -8,3 +8,4 @@ The goal of this repository is not to present groundbreaking insights but to dem
 
 I hope this example provides a clearer understanding of the relationship between Brownian motion and the diffusion equation. As illustrated in the two images, the general shape of the solution remains consistent. However, the PDE solution is significantly smoother and computationally more efficient to obtain.
 
+![Alt text](Monte Carlo solution.png)
