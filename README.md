@@ -1,8 +1,8 @@
 # buzzingBoundary
 
-This repository simulates mosquito movement using two approaches: Brownian motion with Monte Carlo simulations and the heat equation.
+This repository simulates mosquito movement using two approaches: Brownian motion with Monte Carlo simulations and the diffusion equation.
 
-The project was inspired by a concept I encountered about determining the radius needed to eliminate all mosquitoes around a tent, significantly reducing their likelihood of returning. This is particularly relevant since mosquitoes can transmit deadly diseases.
+The project was inspired by a concept I encountered about determining the radius needed to eliminate all mosquitoes around a tent to significantly reduce their likelihood of returning. This was particularly relevant since mosquitoes can transmit deadly diseases.
 
 The goal of this repository is not to present groundbreaking insights but to demonstrate the well-established connections between these methods. These principles are foundational to various phenomena, such as financial option pricing. In finance, instead of simulating mosquito paths, asset prices are often modeled using Brownian motion (or more specifically, geometric Brownian motion).
 
